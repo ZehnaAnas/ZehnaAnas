@@ -14,22 +14,22 @@
 
 ### `>_ status`
 
-<img src="./assets/modules.svg" width="100%" alt="Interests: AI/ML and fullstack active; cloud, robotics and 3D/VFX in progress" />
+<img src="./assets/modules.svg" width="100%" alt="Interests: AI/ML and fullstack active; cloud, robotics and 3D development in progress" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ### `>_ ls ~/projects`
 
 <a href="https://github.com/ZehnaAnas/nexusrag">
-  <img src="./assets/project-nexusrag.svg" width="100%" alt="NexusRAG — hybrid-retrieval RAG platform: dense + BM25 ensemble, Cohere rerank, FastAPI, Docker" />
+  <img src="./assets/project-nexusrag.svg" width="100%" alt="NexusRAG : A Hybrid RAG Platform" />
 </a>
 
 <a href="https://github.com/ZehnaAnas/tripweaver">
-  <img src="./assets/project-tripweaver.svg" width="100%" alt="TripWeaver — multi-agent travel planner: LangGraph router and specialist agents over MCP servers" />
+  <img src="./assets/project-tripweaver.svg" width="100%" alt="TripWeaver : A Multi-Agent Travel Planner" />
 </a>
 
 <a href="https://github.com/ZehnaAnas/pdf_mind">
-  <img src="./assets/project-pdf_mind.svg" width="100%" alt="PDF Mind — ask questions about your PDFs with retrieval-augmented generation" />
+  <img src="./assets/project-pdf_mind.svg" width="100%" alt="PDF Mind : Ask questions about your PDFs with RAG" />
 </a>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <code>langchain</code> · <code>langgraph</code> · <code>chroma</code> · <code>mcp</code> · <code>openai</code> · <code>cohere</code>
+  <code>Langchain</code> · <code>Langgraph</code> · <code>ChromaDB</code> · <code>MCP</code> · <code>Claude</code> · <code>Langsmith</code>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
