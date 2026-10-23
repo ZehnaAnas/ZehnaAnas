@@ -50,6 +50,10 @@ MODULES = [
     ("vfx-3d.service", False, "3d · motion · compositing"),
 ]
 
+# Project cards are off: the README shows the playground instead and the repos
+# are pinned on the profile. Flip to True to regenerate assets/project-*.svg.
+BUILD_PROJECT_CARDS = False
+
 PROJECTS = {
     "nexusrag": dict(
         title="nexusrag",
@@ -597,8 +601,11 @@ def main():
         "divider.svg": build_divider(),
         "footer.svg": build_footer(),
     }
-    for key, p in PROJECTS.items():
-        files[f"project-{key}.svg"] = build_card(key, p)
+    from playground import build_playground  # local module; imports helpers from here
+    files["playground.svg"] = build_playground(HANDLE, HOST)
+    if BUILD_PROJECT_CARDS:
+        for key, p in PROJECTS.items():
+            files[f"project-{key}.svg"] = build_card(key, p)
     for name, content in files.items():
         (OUT / name).write_text(content, encoding="utf-8")
         print(f"{name:28s} {len(content)/1024:6.1f} KB")
