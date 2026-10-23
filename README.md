@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/linkedin-connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0a100c" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/email-ping-00e5ff?style=for-the-badge&logo=maildotru&logoColor=00e5ff&labelColor=0a100c" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/zehna-anas-9998b1387/?isSelfProfile=true"><img src="https://img.shields.io/badge/linkedin-connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0a100c" alt="LinkedIn" /></a>
+  <a href="mailto:anaszehna7@gmail.com"><img src="https://img.shields.io/badge/email-ping-00e5ff?style=for-the-badge&logo=maildotru&logoColor=00e5ff&labelColor=0a100c" alt="Email" /></a>
   <a href="https://github.com/ZehnaAnas?tab=repositories"><img src="https://img.shields.io/badge/repos-browse-ff2bd6?style=for-the-badge&logo=github&logoColor=ff2bd6&labelColor=0a100c" alt="Repositories" /></a>
 </p>
 
