@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Terminal window: ZEHNA ANAS. Interests: robotics, AI, ML, cloud, fullstack, 3D/VFX."><title>Terminal window: ZEHNA ANAS. Interests: robotics, AI, ML, cloud, fullstack, 3D/VFX.</title><style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Terminal window: ZEHNA ANAS. Interests: robotics, AI, ML, cloud, fullstack, 3D/VFX."><title>Terminal window: ZEHNA ANAS. Interests: robotics, AI, ML, cloud, fullstack, 3D Development.</title><style>
 text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 .rain { animation: fall linear infinite; }@keyframes fall { from { transform: translateY(0) } to { transform: translateY(660px) } }.tes { animation: boot 1.2s ease-out .3s both; }@keyframes boot { from { opacity: 0 } to { opacity: 1 } }
